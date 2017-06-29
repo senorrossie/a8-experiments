@@ -18,6 +18,12 @@
 # IDE
 *.json
 
+# Images
+*.mic
+*.ice
+*.png
+*.jpg
+
 # Misc
 *.org
 *.bak
